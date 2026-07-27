@@ -14,8 +14,6 @@ Il lavoro ruota attorno al paradigma del **Virtuosismo Sportivo**: lo Sport come
 
 ## Pubblicazioni
 
-## Pubblicazioni
-
 | Titolo | Asse tematico | DOI |
 |---|---|---|
 | Lo Sport come infrastruttura trasversale di sviluppo (monografia) | Trasversale | [10.5281/zenodo.21618178](https://doi.org/10.5281/zenodo.21618178) |
