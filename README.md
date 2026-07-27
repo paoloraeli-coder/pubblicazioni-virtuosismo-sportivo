@@ -32,17 +32,20 @@ Il lavoro ruota attorno al paradigma del **Virtuosismo Sportivo**: lo Sport come
 | Benessere collettivo e leva aziendale | 2 - Diritto sociale e infrastrutture | [10.5281/zenodo.21596194](https://doi.org/10.5281/zenodo.21596194) |
 | Lo sport nelle aree interne | 2 - Diritto sociale e infrastrutture | [10.5281/zenodo.21593909](https://doi.org/10.5281/zenodo.21593909) |
 | Lo Sport che unisce le generazioni | 2 - Diritto sociale e infrastrutture | [10.5281/zenodo.21611306](https://doi.org/10.5281/zenodo.21611306) |
+| Best practice internazionali – stadi e palestre a impatto zero | 2 - Diritto sociale e infrastrutture | [10.5281/zenodo.21623936](https://doi.org/10.5281/zenodo.21623936) |
 | Quando lo Sport è considerato un optional | 3 - Educazione | [10.5281/zenodo.21567879](https://doi.org/10.5281/zenodo.21567879) |
+| Il sistema educativo australiano | 3 - Educazione | [10.5281/zenodo.21624239](https://doi.org/10.5281/zenodo.21624239) |
+| Lo sport nella European Way of Life | 3 - Educazione | [10.5281/zenodo.21623661](https://doi.org/10.5281/zenodo.21623661) |
+| Biblioteca Sportiva Nazionale | 3 - Educazione | [10.5281/zenodo.21626757](https://doi.org/10.5281/zenodo.21626757) |
 | Lo Sport come motore di sviluppo | Trasversale | [10.5281/zenodo.21592359](https://doi.org/10.5281/zenodo.21592359) |
 | Soft power sportivo | 4 - Geopolitica e reputazione | [10.5281/zenodo.21596429](https://doi.org/10.5281/zenodo.21596429) |
 | Sport ed istituzioni | 4 - Geopolitica e reputazione | [10.5281/zenodo.21594209](https://doi.org/10.5281/zenodo.21594209) |
 | Sportwashing e reputazione | 4 - Geopolitica e reputazione | [10.5281/zenodo.21568740](https://doi.org/10.5281/zenodo.21568740) |
 | Milano Cortina 2026 | 4 - Geopolitica e reputazione | [10.5281/zenodo.21591091](https://doi.org/10.5281/zenodo.21591091) |
 | La legacy olimpica | 4 - Geopolitica e reputazione | [10.5281/zenodo.21590671](https://doi.org/10.5281/zenodo.21590671) |
+| Governare lo Sport per governare lo sviluppo (caso Arabia Saudita) | 4 - Geopolitica e reputazione | [Consulenti dello Sport](https://www.consulentidellosport.info/post/sport-e-sviluppo-internazionale-il-caso-arabia-saudita) |
 | Neuro-diritti e Sport | 5 - Frontiera tecnologico-etica | [10.5281/zenodo.21610472](https://doi.org/10.5281/zenodo.21610472) |
-Tutte le pubblicazioni sono archiviate anche su **Zenodo** con DOI permanente, consultabili tramite il profilo ORCID: [0009-0007-7081-085X](https://orcid.org/0009-0007-7081-085X)
-
-Monografia di riferimento: *Lo Sport come infrastruttura trasversale di sviluppo – Il virtuosismo sportivo come meccanismo del valore pubblico* (2026, Editoriale Scientifica, collana puntOorg diretta dal Prof. Luigi Maria Sicca)
+| Sport e intelligenza artificiale | 5 - Frontiera tecnologico-etica | [10.5281/zenodo.21616594](https://doi.org/10.5281/zenodo.21616594) |
 
 ## Licenza
 
