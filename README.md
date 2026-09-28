@@ -16,6 +16,7 @@ Il lavoro ruota attorno al paradigma del **Virtuosismo Sportivo**: lo Sport come
 
 | Titolo | Asse tematico | DOI |
 |---|---|---|
+| Il biglietto ritrovato delle Olimpiadi di Cortina 1956: tra memoria sportiva, identità territoriale e legacy Olimpica di Milano Cortina 2026 | Trasversale e infrastrutture| [10.5281/zenodo.23004386](https://doi.org/10.5281/zenodo.23004386) |
 | Lo Sport come infrastruttura trasversale di sviluppo (monografia) | Trasversale | [10.5281/zenodo.21618178](https://doi.org/10.5281/zenodo.21618178) |
 | Realizzare la più grande banca dati di settore (tesi Luiss) | 1 - Finanza e ESG | [10.5281/zenodo.21591399](https://doi.org/10.5281/zenodo.21591399) |
 | ESG nello Sport | 1 - Finanza e ESG | [10.5281/zenodo.21594598](https://doi.org/10.5281/zenodo.21594598) |
